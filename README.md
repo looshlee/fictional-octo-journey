@@ -1,4 +1,4 @@
 # fictional-octo-journey
 testing pull request close
 
-potato
+potatos are best served as hash browns
